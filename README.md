@@ -8,5 +8,7 @@ korean chat analysis(word cloud, freq) and crawling with python
   3. 워드 클라우드 생성
 
 파일:
-  1. movies.ipynb : 파이썬 실행파일
+  1. movies.ipynb : 주피터 노트
   2. movie.csv : 크롤링한 데이터 (네이버 영화)
+  
+
