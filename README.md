@@ -1,5 +1,7 @@
-# korean chat analysis(word cloud, freq) and crawling with python  
 # 파이썬을 이용한 댓글 분석
+
+korean chat analysis(word cloud, freq) and crawling with python
+
 내용: 
   1. 웹 크롤링 기초
   2. 빈도 시각화
