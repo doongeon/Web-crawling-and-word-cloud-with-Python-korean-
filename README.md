@@ -11,8 +11,13 @@ korean chat analysis(word cloud, freq) and crawling with python
 파일:
   1. movies.ipynb : 주피터 노트
   2. movie.csv : 크롤링한 데이터 (네이버 영화)
+
+
+![image](https://user-images.githubusercontent.com/87890694/222934252-f17425ee-a19f-4238-a2f1-ad2968b5a946.png)
+
   
   
 ![image](https://user-images.githubusercontent.com/87890694/222934232-e77173a3-01b1-4822-a51a-afdefd6a58df.png)
+
 
 doongeon
