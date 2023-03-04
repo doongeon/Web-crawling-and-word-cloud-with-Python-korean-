@@ -1,5 +1,5 @@
 # 파이썬을 이용한 댓글 분석
-## 파이선 라이브러리를 이용한 웹 크롤링과 시각화
+## 파이선 라이브러리를 이용한 웹 크롤링과 워드 클라우드 구현 및 시각화
 
 korean chat analysis(word cloud, freq) and crawling with python
 
