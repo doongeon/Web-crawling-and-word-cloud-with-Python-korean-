@@ -20,4 +20,4 @@ korean chat analysis(word cloud, freq) and crawling with python
 ![image](https://user-images.githubusercontent.com/87890694/222934232-e77173a3-01b1-4822-a51a-afdefd6a58df.png)
 
 
-doongeon
+donggeon
