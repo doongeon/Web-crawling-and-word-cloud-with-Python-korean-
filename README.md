@@ -13,6 +13,8 @@ korean chat analysis(word cloud, freq) and crawling with python
   2. movie.csv : 크롤링한 데이터 (네이버 영화)
 
 
+### Example
+
 ![image](https://user-images.githubusercontent.com/87890694/222934252-f17425ee-a19f-4238-a2f1-ad2968b5a946.png)
 
   
